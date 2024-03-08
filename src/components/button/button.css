@@ -1,0 +1,8 @@
+.button {
+   background-color: lightpink;
+   color: crimson;
+   border: 1px solid crimson;
+   padding: 10px;
+   margin: 5px;
+   font-weight: 500;
+}
